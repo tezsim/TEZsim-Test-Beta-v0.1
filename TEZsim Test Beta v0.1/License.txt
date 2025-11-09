@@ -1,0 +1,87 @@
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+Licenčné podmienky pre softvér TEZsim - Slovak Language
+TEZsim je softvér distribuovaný ako Freeware. Používaním softvéru vyjadrujete súhlas s nasledujúcimi podmienkami:
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+1. Povolené použitie
+------------------------------------------------------------
+Použitie audiovizuálneho záznamu softvéru – je povolené na účely recenzií, prezentácií, ako aj na tvorbu obsahu na sociálnych sieťach a streamovacích platformách.
+Obsah audiovizuálneho záznamu softvéru je výsledkom duševnej činnosti autora obsahu, pričom autor softvéru nenesie žiadnu zodpovednosť za jeho interpretáciu, prezentáciu ani použitie.
+2. Zakázané použitie
+------------------------------------------------------------
+Softvér je zakázané používať na komerčné účely, konkrétne na predaj, prenájom alebo poskytovanie ako služby.
+Softvér je taktiež zakázané používať na účely školenia alebo odbornej prípravy strojvodcov, personálu či technikov, nakoľko nespĺňa legislatívne ani technické požiadavky určené pre tieto účely. 
+Zakazuje sa úprava, dekompilácia, spätná analýza (reverse engineering), obchádzanie ochranných prvkov a vytváranie odvodených diel bez písomného súhlasu autora.
+Zakazuje sa šírenie softvéru v akejkoľvek pozmenenej podobe.
+3. Distribúcia
+------------------------------------------------------------
+Softvér je možné šíriť len v pôvodnej, nezmenenej podobe, vrátane týchto licenčných podmienok.
+Akýkoľvek predaj, prenájom, poskytnutie alebo sprístupnenie softvéru za priamu alebo nepriamu odplatu je výslovne zakázané. 
+Distribúcia prostredníctvom internetu alebo iných médií je povolená, ak je zachovaná integrita softvéru a licencie.
+4. Zodpovednosť a vylúčenie záruk
+------------------------------------------------------------
+Softvér je poskytovaný v stave „tak, ako je“ (as-is) bez akejkoľvek výslovnej alebo predpokladanej záruky.
+Autor neposkytuje záruku funkčnosti, bezchybnosti, ani vhodnosti na konkrétny účel.
+Autor nenesie zodpovednosť za žiadne priame, nepriame, následné alebo mimoriadne škody, ktoré by vznikli použitím alebo nemožnosťou používania softvéru.
+Používanie softvéru je výhradne na vlastné riziko používateľa.
+5. Autorské práva
+------------------------------------------------------------
+Všetky autorské práva a vlastnícke práva k softvéru TEZsim zostávajú vo výhradnom vlastníctve autora.
+Táto licencia neprevádza vlastníctvo softvéru na používateľa, ale udeľuje mu obmedzené právo používania v súlade s týmito podmienkami.
+Názov „TEZsim“ a všetky súvisiace označenia môžu byť predmetom právnej ochrany.
+6. Aktualizácie a podpora
+------------------------------------------------------------
+Autor je oprávnený softvér kedykoľvek zmeniť, aktualizovať alebo ukončiť jeho distribúciu.
+Poskytovanie technickej podpory nie je zaručené.
+Používateľ nemá právny nárok na aktualizácie, opravy ani rozšírenia softvéru.
+7. Záverečné ustanovenia
+------------------------------------------------------------
+Ak používateľ nesúhlasí s podmienkami tejto licencie, je povinný softvér okamžite prestať používať a odstrániť ho zo svojho zariadenia.
+Autor si vyhradzuje právo tieto podmienky kedykoľvek zmeniť alebo doplniť.
+Všetky právne vzťahy vyplývajúce z tejto licencie sa riadia právnym poriadkom Slovenskej republiky.
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+LICENSE TERMS FOR TEZsim SOFTWARE - English Language
+TEZsim is distributed as Freeware.
+By using this software, you agree to the following terms and conditions:
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+1. Permitted Use
+------------------------------------------------------------
+The use of audiovisual recordings of the software is permitted for reviews, presentations, and the creation of content on social media or streaming platforms.
+The audiovisual content constitutes the intellectual work of its author, and the software author bears no responsibility for its interpretation, presentation, or use. 
+2. Prohibited Use
+------------------------------------------------------------
+The software is prohibited from being used for commercial purposes, specifically for sale, rental, or provision as a service.
+The software is also prohibited from being used for the training or professional preparation of train drivers, staff, or technicians, as it does not meet the legislative or technical requirements designated for such purposes. 
+It is strictly prohibited to modify, decompile, reverse-engineer, bypass protection mechanisms, or create derivative works of the software without the author’s written consent.
+Distribution of the software in any modified form is prohibited.
+3. Distribution
+------------------------------------------------------------
+The software may be distributed only in its original, unmodified form, including this license agreement.
+Any sale, rental, or provision of the software for direct or indirect payment is strictly prohibited.
+Distribution via the Internet or other media is permitted, provided the integrity of the software and this license is maintained.
+4. Liability and Disclaimer of Warranties
+------------------------------------------------------------
+The software is provided “as is”, without any express or implied warranty of any kind.
+The author provides no guarantee of functionality, error-free operation, or suitability for any particular purpose.
+The author shall not be held liable for any direct, indirect, consequential, or incidental damages arising from the use or inability to use the software.
+Use of the software is entirely at the user’s own risk.
+5. Copyright
+------------------------------------------------------------
+All copyrights and ownership rights to TEZsim remain the exclusive property of the author.
+This license does not transfer ownership of the software to the user but grants a limited right to use it under the conditions stated herein.
+The name “TEZsim” and all related identifiers may be subject to legal protection.
+6. Updates and Support
+------------------------------------------------------------
+The author reserves the right to modify, update, or discontinue the software at any time.
+Provision of technical support is not guaranteed.
+The user has no legal entitlement to receive updates, bug fixes, or feature extensions.
+7. Final Provisions
+------------------------------------------------------------
+If the user does not agree with the terms of this license, they must immediately cease using the software and remove it from their device.
+The author reserves the right to change or amend these terms at any time.
+All legal relations arising from this license shall be governed by the laws of the Slovak Republic.
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
