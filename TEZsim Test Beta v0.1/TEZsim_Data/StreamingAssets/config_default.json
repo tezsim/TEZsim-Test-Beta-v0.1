@@ -1,0 +1,10 @@
+{
+    "graphicPreset": "High",
+    "renderResolution": "1920x1080",
+    "fullScreenMode": true,
+    "vsyncEnabled": false,
+    "hdrpEnabled": false,
+    "shadowResolution": "Medium",
+    "shadows": "Soft",
+    "soundVolumeLevel": 100
+}

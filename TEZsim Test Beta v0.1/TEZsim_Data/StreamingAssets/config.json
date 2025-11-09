@@ -1,0 +1,10 @@
+{
+    "graphicPreset": "Medium",
+    "renderResolution": "1280x720",
+    "fullScreenMode": false,
+    "vsyncEnabled": false,
+    "hdrpEnabled": false,
+    "shadowResolution": "Medium",
+    "shadows": "Soft",
+    "soundVolumeLevel": 46
+}
